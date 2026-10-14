@@ -2,6 +2,8 @@
 
 ### Full-Stack Software Engineer | Applied AI & LLM Integration
 
+🌐 **[View My Portfolio](YOUR_PORTFOLIO_URL)** · 💼 [LinkedIn](https://www.linkedin.com/in/mukul-pandey-274839210/) · 💻 [GitHub](https://github.com/mukulpandey2866) · 📧 [Email](mailto:mukulpandey2866@gmail.com)
+
 I'm a Software Engineer at Volkswagen Group Digital Solutions India, working on enterprise Java microservices, REST APIs, database integration, and full-stack application development.
 
 I'm interested in building practical software solutions that combine reliable backend engineering, modern frontend technologies, and AI-powered features.
@@ -69,6 +71,7 @@ A resource-platform project developed using React, JavaScript, HTML, CSS, Django
 
 ## 🔗 Connect With Me
 
+- 🌐 Portfolio: [Visit My Portfolio](YOUR_PORTFOLIO_URL)
 - 💼 LinkedIn: [Mukul Pandey](https://www.linkedin.com/in/mukul-pandey-274839210/)
 - 💻 GitHub: [mukulpandey2866](https://github.com/mukulpandey2866)
 - 📧 Email: [mukulpandey2866@gmail.com](mailto:mukulpandey2866@gmail.com)
